@@ -7,11 +7,11 @@
 # string_Nombre_variable = tipo_dato    ;   variables con Cadenas o caracteres
 # bool_Nombre_variable = tipo_dato      ;   variables booleanas
 
-# Pseudocódigo:
+# Pseudocï¿½digo:
 
 # nombre_variable = tipo_dato
 # introducir nombre_variable
-# imprime “comentario”
+# imprime ï¿½comentarioï¿½
 
 #Declaracion de variables
 
@@ -22,10 +22,10 @@ str_Apellido = ""
 
 #Inicio del programa
 
-int_Edad = int (raw_input('Introduce tu edad: '))
-float_Estatura = float (raw_input('Introduce Tu estatura: '))
-str_Inicial = raw_input('Introduce la inicial de tu nombre: ')
-str_Apellido = raw_input('Introduce Tu apellido: ')
+int_Edad = int (input('Introduce tu edad: '))
+float_Estatura = float (input('Introduce Tu estatura: '))
+str_Inicial = input('Introduce la inicial de tu nombre: ')
+str_Apellido = input('Introduce Tu apellido: ')
 
 print ("")
 print ("TUS DATOS SON:")

@@ -5,7 +5,7 @@
 # str_Nombre_variable = tipo_dato       ;   variables con Cadenas o caracteres
 # bool_Nombre_variable = tipo_dato      ;   variables booleanas
 
-# Pseudocódigo:
+# Pseudocï¿½digo:
 
 # nombre_variable = tipo_dato
 # imprime nombre_variable
@@ -16,7 +16,6 @@ str_Cadena = "WCODE"
 bool_Estado = True
 
 print ("TIPOS DE VARIABLES")
-print ""
 print ("Variable tipo entera  :     %d" %(int_Numero))
 print ("Variable tipo flotante:     %f" %(float_Ddecimal))
 print ("Variable tipo cadena  :     %s" %(str_Cadena))
