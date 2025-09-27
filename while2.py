@@ -20,3 +20,4 @@ while suma%5!=0 or suma== 42:
     print(f"{suma} + {anterior} = {suma + anterior}")
     anterior=suma
     suma= int(input("escriba número "))
+    print(f"sdasd{suma}")
