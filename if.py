@@ -6,3 +6,5 @@ if numero%2==0:
 else:
     print("Elnúmero es impar")    
     
+
+   
