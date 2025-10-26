@@ -1,34 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="71e42dc9-0793-47a1-a829-d5a16de0dbab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/while2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if.py" beforeDir="false" afterPath="$PROJECT_DIR$/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Varios/clase17-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1Condicionales/Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosTema1TipoDatos/Ejercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1Condicionales/Ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosTema1TipoDatos/Ejercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1Condicionales/Ejercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosTema1TipoDatos/Ejercicio3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1Condicionales/Ejercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosTema1TipoDatos/Ejercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1Condicionales/Ejercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosTema1TipoDatos/Ejercicio5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Varios/Primero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Varios/Primero.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="33HGC3S5zwopOTaEjiQW2Jx0Xiu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.while2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.clase17-10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/isra/CLASE/PYTHON&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
