@@ -39,16 +39,17 @@ while (dato.lower()!="salir" ):
                 print(f"Valor convertido: {conversor}")
                 contador_float +=1
             except ValueError:#la última excepción string, porqque sabemos que al pasar el input siempre es String
-                print(f"Entrada: {dato}")
-                print(f"Tipo detactado: {dato}")
-                print(f"Valor convertido: {dato}")
-                contador_str += 1
+                if(dato.lower() != "salir"):
+                    print(f"Entrada: {dato}")
+                    print(f"Tipo detactado: String")
+                    print(f"Valor convertido: {dato}")
+                    contador_str += 1
             
-    print()
+    print() #Escrbimos un salto para mostrar el total de forma mas visual
 
 contador_str-=1#restamos uno menos de string pra que no cuente la salida
 
-#para finalizar mostramos el tortal
+#para finalizar mostramos el total
 print("Has utilizado:")
 print(f"int: {contador_int}")
 print(f"float: {contador_float}")
