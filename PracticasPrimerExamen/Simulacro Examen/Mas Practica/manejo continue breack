@@ -1,0 +1,52 @@
+print("Bienvenido al programa de pruebas")
+
+while True:
+    # 1. Mostramos las opciones
+    print("\n--- MENÚ PRINCIPAL ---")
+    print("1. Saludar")
+    print("2. Sumar dos números")
+    print("3. Divide dos números")
+    print("4. Salir")
+    
+    # 2. Pedimos la opción
+    opcion = input("Elige una opción (1, 2 o 3): ")
+
+    # 3. Evaluamos qué hacer
+    if opcion == "1":
+        print("¡Hola! Espero que estés aprendiendo mucho Python.")
+
+    elif opcion == "2":
+        print("--- Modo Suma ---")
+        try:
+            # Intentamos pedir números. Usamos float por si ponen decimales.
+            num1 = float(input("Introduce el primer número: "))
+            num2 = float(input("Introduce el segundo número: "))
+            
+            suma = num1 + num2
+            print(f"El resultado de la suma es: {suma}")
+            
+        except ValueError:
+            # Si fallan escribiendo el número, caen aquí
+            print("¡Error! Eso no era un número válido. Vuelves al menú.")
+
+    elif opcion == "3":
+        try:
+            numero1= float(input("Introduce el primer número: "))
+            numero2= float(input("Introduce el segundo número: "))
+
+            division= numero1 / numero2
+            print("El resultado de la divion es: ",division)
+        except ValueError:
+            print("¡Error! Eso no era un número válido. Vuelves al menú.")
+        except ZeroDivisionError:
+            print("El número de la división no puede ser 0")
+    
+    elif opcion == "4":
+        print("Cerrando el programa... ¡Adiós!")
+        break  # <--- AQUÍ ROMPEMOS EL BUCLE INFINITO
+
+    else:
+        # Si escriben "4", "hola" o cualquier otra cosa en el menú
+        print("Opción incorrecta. Por favor, elige 1, 2 o 3.")
+
+print("Programa finalizado.")
