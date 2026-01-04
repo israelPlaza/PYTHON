@@ -1,0 +1,2 @@
+Hoy empiezo mi diario de Python.
+¡Y esto es la segunda línea!
